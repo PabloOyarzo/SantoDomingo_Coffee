@@ -1,5 +1,4 @@
-## Welcome to Santo Domingo Coffee
-
+## Santo Domingo Coffee
 
 ### Affogato Cafe 
 ###### last update: 26th Mar 21
@@ -17,4 +16,21 @@ Recommended:
 2. Mokaccino Ice RD$250
 3. Affogato RD$350 
 ###### tax included
+---
+
+
+### Orfebre 
+###### last update: 26th Mar 21
+
+- Wifi 📶 : ??? 
+- AC outlet 🔌 : Only 1 in the establishment. Unknown in the museum. 
+
+Confortable to...
+- Read 📖 : Yes (Museum > Establishment).
+- Work 💻 : Yes, but not so confortable power outlets.
+
+
+Recommended: 
+1. Café Bonbon RD$160 
+###### tax included???
 ---
