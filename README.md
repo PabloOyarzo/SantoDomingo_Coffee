@@ -4,11 +4,11 @@
 ### Affogato Cafe
 ###### last update: 26th Mar 21
 
-Wifi: Yes
-AC outlet: Only 2-3, not close to all the tables
-Confortable to...
-  Read: Yes
-  Work: Yes, but not so confortable power outlets
+- Wifi: Yes
+- AC outlet: Only 2-3, not close to all the tables
+- Confortable to...
+- Read: Yes
+- Work: Yes, but not so confortable power outlets
 
 
 Recommended: 
