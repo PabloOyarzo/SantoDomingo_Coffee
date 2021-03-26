@@ -22,8 +22,8 @@ Recommended:
 ### Orfebre 
 ###### last update: 26th Mar 21
 
-- Wifi 📶 : ??? 
-- AC outlet 🔌 : Only 1 in the establishment. Unknown in the museum. 
+- Wifi 📶 : Yes  
+- AC outlet 🔌 : Only 2 in the establishment. none in the museum. 
 
 Confortable to...
 - Read 📖 : Yes (Museum > Establishment).
@@ -31,6 +31,6 @@ Confortable to...
 
 
 Recommended: 
-1. Café Bonbon RD$160 
-###### tax included???
+1. Café Bonbon RD$175 
+###### tax included
 ---
