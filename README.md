@@ -13,9 +13,8 @@ Confortable to...
 
 
 Recommended: 
-###### tax included
 1. Italiano Capuccino Caramelo RD$160
 2. Mokaccino Ice RD$250
 3. Affogato RD$350 
-
+###### tax included
 ---
