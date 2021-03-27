@@ -16,6 +16,8 @@ Recommended:
 2. Mokaccino Ice RD$250
 3. Affogato RD$350 
 ###### tax included
+
+
 ---
 
 
@@ -33,13 +35,16 @@ Confortable to...
 Recommended: 
 1. Café Bonbon RD$175 
 ###### tax included
+
+
 ---
 
-### CIAO Cafe (Av. Tiradentes)
+
+### Ciao Caffetteria (Av. Tiradentes)
 ###### last update: 26th Mar 21
 
 - Wifi 📶 : ???  
-- AC outlet 🔌 : Only 2 in the establishment. none in the museum. 
+- AC outlet 🔌 : ?? 
 
 Confortable to...
 - Read 📖 : Yes, better with headphones, usually a lot of people having meetings and calls.
@@ -47,9 +52,13 @@ Confortable to...
 
 
 Recommended: 
-1. ??? 
-###### tax included
+1. Capuccino Americano RD$160 
+2. Maroccino RD$160 
+###### tax NOT included
+
+
 ---
+
 
 ## TODO 
 - Add locations
