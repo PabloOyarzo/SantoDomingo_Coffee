@@ -35,6 +35,21 @@ Recommended:
 ###### tax included
 ---
 
+### CIAO Cafe (Av. Tiradentes)
+###### last update: 26th Mar 21
+
+- Wifi 📶 : ???  
+- AC outlet 🔌 : Only 2 in the establishment. none in the museum. 
+
+Confortable to...
+- Read 📖 : Yes, better with headphones, usually a lot of people having meetings and calls.
+- Work 💻 : Yes, wouldn't suggest deep work.
+
+
+Recommended: 
+1. ??? 
+###### tax included
+---
 
 ## TODO 
 - Add locations
