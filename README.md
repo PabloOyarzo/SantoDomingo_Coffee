@@ -34,3 +34,9 @@ Recommended:
 1. Café Bonbon RD$175 
 ###### tax included
 ---
+
+
+## TODO 
+- Add locations
+- Add logos
+- Add schedules
