@@ -17,6 +17,8 @@ Recommended:
 3. Affogato RD$350 
 ###### tax included
 
+Notable mentions:
+1. Italiano Capuccino Caramelo [Iced Version] RD$??
 
 ---
 
